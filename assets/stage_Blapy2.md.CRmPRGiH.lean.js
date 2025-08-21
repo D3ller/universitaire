@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a1 as n}from"./chunks/framework.DTR-fORK.js";const c=JSON.parse('{"title":"Blapy2","description":"","frontmatter":{},"headers":[],"relativePath":"stage/Blapy2.md","filePath":"stage/Blapy2.md"}'),l={name:"stage/Blapy2.md"},e=n("",7),t=[e];function p(h,k,r,E,d,g){return a(),i("div",null,t)}const o=s(l,[["render",p]]);export{c as __pageData,o as default};

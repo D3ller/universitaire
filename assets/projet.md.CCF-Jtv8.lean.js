@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,a1 as o}from"./chunks/framework.DTR-fORK.js";const m=JSON.parse('{"title":"Portoflio Universitaire","description":"","frontmatter":{},"headers":[],"relativePath":"projet.md","filePath":"projet.md"}'),a={name:"projet.md"},i=o("",7),p=[i];function n(s,l,_,c,d,f){return t(),r("div",null,p)}const u=e(a,[["render",n]]);export{m as __pageData,u as default};
