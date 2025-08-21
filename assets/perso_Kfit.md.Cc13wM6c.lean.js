@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r,a1 as a}from"./chunks/framework.DTR-fORK.js";const _=JSON.parse('{"title":"Kfit","description":"","frontmatter":{},"headers":[],"relativePath":"perso/Kfit.md","filePath":"perso/Kfit.md"}'),i={name:"perso/Kfit.md"},s=a("",9),o=[s];function n(u,l,d,p,c,m){return r(),t("div",null,o)}const h=e(i,[["render",n]]);export{_ as __pageData,h as default};
